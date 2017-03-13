@@ -1,0 +1,22 @@
+#wrapper{
+	background: #e2eeff;
+	width: 50%;	
+	margin: 10% auto;	
+	border: 1px solid black;		
+}
+
+.box{
+	background: red;
+	width: 300px;
+	height: 300px;	
+}
+
+#outterBox{
+	margin: 5% auto;
+	border: 10px solid black;
+	padding: 5%;
+}
+
+#innerBox{
+	border: 1px dotted black;
+}
